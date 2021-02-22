@@ -27,7 +27,7 @@ const BranchCard = ({ img, map, ubereats, foodpanda, address, telephone }) => {
                 </div>
 
                 <div className="p-1 button1">
-                  <a className="p-2" href={ubereats} target="_blank">
+                  <a className="p-2" href={ubereats} target="_blank" rel="noreferrer">
                     <img
                       src="https://logodownload.org/wp-content/uploads/2019/05/uber-eats-logo-9.png"
                       alt=""
@@ -37,7 +37,7 @@ const BranchCard = ({ img, map, ubereats, foodpanda, address, telephone }) => {
                 </div>
 
                 <div className="p-1 button1">
-                  <a className="p-2" href={foodpanda} target="_blank">
+                  <a className="p-2" href={foodpanda} target="_blank" rel="noreferrer">
                     <img
                       src="https://media-exp1.licdn.com/dms/image/C4E0BAQF49MA-tvVQwQ/company-logo_200_200/0/1519895464101?e=2159024400&v=beta&t=rlYLtirXXrOZEhbto7dunueikzC8yfeIwuB8zdtWd_c"
                       alt=""

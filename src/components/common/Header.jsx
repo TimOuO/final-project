@@ -34,6 +34,7 @@ const Header = () => {
                 href="https://docs.google.com/forms/d/e/1FAIpQLSdmTzTSTlBSW8PZYZwffko3BQw3hEwR9LyCq_Jlq8XbbB9pKA/viewform"
                 target="_blank"
                 className="button"
+                rel="noreferrer"
               >
                 <Nav.Link
                   href="https://docs.google.com/forms/d/e/1FAIpQLSdmTzTSTlBSW8PZYZwffko3BQw3hEwR9LyCq_Jlq8XbbB9pKA/viewform"
@@ -46,6 +47,7 @@ const Header = () => {
                 href="https://zh-tw.facebook.com/"
                 target="_blank"
                 className="button"
+                rel="noreferrer"
               >
                 <Nav.Link href="https://zh-tw.facebook.com/" target="_blank">
                   <FaFacebook

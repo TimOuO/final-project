@@ -10,6 +10,7 @@ const Footer = () => {
           <div className="row">
             <div className="col-lg-6 col-md-6 mb-4 mb-md-0">
               <iframe
+                title="map"
                 src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14563.947006560575!2d121.2758385!3d24.1371034!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc95761a7402da803!2z5q2m5ba6!5e0!3m2!1szh-TW!2stw!4v1613533167686!5m2!1szh-TW!2stw"
                 width="275"
                 height="275"
@@ -38,6 +39,7 @@ const Footer = () => {
                 className="p-2"
                 href="https://www.ubereats.com/tw"
                 target="_blank"
+                rel="noreferrer"
               >
                 <img
                   src="https://logodownload.org/wp-content/uploads/2019/05/uber-eats-logo-9.png"
@@ -49,6 +51,7 @@ const Footer = () => {
                 className="p-2"
                 href="https://www.foodpanda.com.tw/?gclid=Cj0KCQiAvP6ABhCjARIsAH37rbTn0312ZlgU-GCMOJ9yF35jyfQfEWzaDbiNEt-t-rziqDAohLqehzEaArJXEALw_wcB"
                 target="_blank"
+                rel="noreferrer"
               >
                 <img
                   src="https://media-exp1.licdn.com/dms/image/C4E0BAQF49MA-tvVQwQ/company-logo_200_200/0/1519895464101?e=2159024400&v=beta&t=rlYLtirXXrOZEhbto7dunueikzC8yfeIwuB8zdtWd_c"

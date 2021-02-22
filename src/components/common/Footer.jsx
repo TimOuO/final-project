@@ -65,7 +65,10 @@ const Footer = () => {
         </div>
         <div className="text-center p-2">
           © 2021 Copyright:
-          <a className="text-secondary" href="https://github.com/TimOuO">
+          <a className="text-secondary a"
+            href="https://github.com/TimOuO"
+            target="_blank"
+            rel="noreferrer">
             Tim
           </a>
         </div>
@@ -82,6 +85,7 @@ const StyledFooter = styled.div`
   .a {
     color: #2d2d2d;
     &:hover {
+      color:#000000;
       text-decoration: none;
     }
   }

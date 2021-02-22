@@ -13,7 +13,7 @@ const ActivityCard = ({ img, text, text1, text2, text3 }) => {
                 <Image src={img} rounded width="100%" />
               </Col>
               <div className="col-lg-6 col-md-6 my-auto">
-                <ul className="pt-3 pl-3 ">
+                <ul className="">
                   <li className="font-weight-bold pb-3 text">{text}</li>
                   <li>{text1}</li>
                   <li>{text2}</li>

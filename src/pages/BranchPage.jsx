@@ -6,7 +6,7 @@ const BranchPage = () => {
   return (
     <StyledBranchPage>
       <div className="container">
-        <h1 className="p-3 text-center">分店資訊</h1>
+        <h1 className="p-3 text-center font-weight-bold">分店資訊</h1>
         <div className="p-3">
           <BranchCard
             img="https://images.unsplash.com/photo-1511019075502-c3734f9a7cff?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"

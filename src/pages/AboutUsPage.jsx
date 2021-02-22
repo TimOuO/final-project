@@ -34,7 +34,7 @@ const AboutUsPage = () => {
             />
           </div>
           <div className="col-lg-6 col-md-12 text font-size m-auto p-3">
-            <h1 className="p-2 font-weight-bold">信念</h1>
+            <h2 className="p-2 font-weight-bold">信念</h2>
             <p className="mb-0 mw-100">
               對於各項食材及調味品，堅持五十年來以最傳統的方式
               以及最嚴謹的態度來呈現給每一位消費者

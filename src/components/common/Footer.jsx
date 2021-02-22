@@ -10,6 +10,7 @@ const Footer = () => {
           <div className="row">
             <div className="col-lg-6 col-md-6 mb-4 mb-md-0">
               <iframe
+                className="align-baseline m-0 p-0 border-0"
                 title="map"
                 src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14563.947006560575!2d121.2758385!3d24.1371034!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc95761a7402da803!2z5q2m5ba6!5e0!3m2!1szh-TW!2stw!4v1613533167686!5m2!1szh-TW!2stw"
                 width="275"

@@ -13,7 +13,7 @@ const HomePage = () => {
           <Carousel.Item interval={2000}>
             <img
               className="d-block w-100"
-              src="https://images.unsplash.com/photo-1516901121982-4ba280115a36?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1351&q=80"
+              src="https://images.pexels.com/photos/6646067/pexels-photo-6646067.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
               alt="First slide"
             />
             <Carousel.Caption>
@@ -23,7 +23,7 @@ const HomePage = () => {
           <Carousel.Item interval={2000}>
             <img
               className="d-block w-100"
-              src="https://images.unsplash.com/photo-1504669887860-f6d4cc3feb4b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+              src="https://images.pexels.com/photos/6646072/pexels-photo-6646072.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
               alt="Third slide"
             />
             <Carousel.Caption>
@@ -33,7 +33,7 @@ const HomePage = () => {
           <Carousel.Item interval={2000}>
             <img
               className="d-block w-100"
-              src="https://images.unsplash.com/photo-1520689656391-66b6dd7f0ec6?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80"
+              src="https://images.pexels.com/photos/929174/pexels-photo-929174.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
               alt="Third slide"
             />
             <Carousel.Caption>

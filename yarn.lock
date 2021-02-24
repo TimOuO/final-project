@@ -7797,6 +7797,11 @@ obuf@^1.0.0, obuf@^1.1.2:
   resolved "https://registry.yarnpkg.com/obuf/-/obuf-1.1.2.tgz#09bea3343d41859ebd446292d11c9d4db619084e"
   integrity sha512-PX1wu0AmAdPqOL1mWhqmlOd8kOIZQwGZw6rh7uby9fTc5lhaOWFLX3I6R1hrF9k3zUY40e6igsLGkDXK92LJNg==
 
+omicron@~0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/omicron/-/omicron-0.2.0.tgz#5a275c33197c372ae3d96f9369bea1d55d20b175"
+  integrity sha1-WidcMxl8Nyrj2W+Tab6h1V0gsXU=
+
 on-finished@~2.3.0:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/on-finished/-/on-finished-2.3.0.tgz#20f1336481b083cd75337992a16971aa2d906947"
@@ -10334,6 +10339,13 @@ stackframe@^1.1.1:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/stackframe/-/stackframe-1.2.0.tgz#52429492d63c62eb989804c11552e3d22e779303"
   integrity sha512-GrdeshiRmS1YLMYgzF16olf2jJ/IzxXY9lhKOskuVziubpTYcYqyOwYeJKzQkwy7uN0fYSsbsC4RQaXf9LCrYA==
+
+state@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/state/-/state-0.2.0.tgz#df661bdacaafffedd6e0288c87d83e3792d053cd"
+  integrity sha1-32Yb2sqv/+3W4CiMh9g+N5LQU80=
+  dependencies:
+    omicron "~0.2.0"
 
 static-extend@^0.1.1:
   version "0.1.2"

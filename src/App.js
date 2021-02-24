@@ -8,10 +8,12 @@ import HomePage from "./pages/HomePage";
 import AboutUsPage from "./pages/AboutUsPage";
 import MenuPage from "./pages/MenuPage";
 import BranchPage from "./pages/BranchPage";
+import ScrollToTop from "./utils/ScrollToTop";
 
 export default function App() {
   return (
     <BrowserRouter>
+      <ScrollToTop />
       <Header />
       <Switch>
         <Route path="/aboutus">

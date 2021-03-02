@@ -24,10 +24,10 @@ const Header = () => {
               <Link to={"/aboutus"} className="button ">
                 <Nav.Link href="/aboutus">關於我們</Nav.Link>
               </Link>
-              <Link to={"/menu"} className="button">
+              <Link to={"/menu"} className="button ">
                 <Nav.Link href="/menu">美味菜單</Nav.Link>
               </Link>
-              <Link to={"/branch"} className="button">
+              <Link to={"/branch"} className="button ">
                 <Nav.Link href="/branch">分店資訊</Nav.Link>
               </Link>
               <a
@@ -82,12 +82,12 @@ const StyledHeader = styled.div`
     color: white;
   }
   .button {
-    font-size: 20px;
-    border: 2px blue none;
-    border-radius: 20px;
+    font-size: 18px;
+    border: 4px blue none;
+    border-radius: 10px;
     color: white;
     background-color: #ffb549;
-    padding: 4px;
+    margin-left: 12px;
     &:hover {
       transform: scale(1.15, 1.15);
       transition: transform 0.25s ease;
